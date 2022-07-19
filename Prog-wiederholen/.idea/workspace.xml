@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66293bfa-36d0-4618-b9e6-c557f268a769" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Programmieren" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="273rfGPybAnWtWf1tYFNX0jr4aK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Project.color": "080518",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_opened_file_path": "C:/Users/fabia/Documents/Uni/1.IntelliJ Project/Programmieren",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "fileTemplates"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Nr2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fabia\Documents\Uni\1.IntelliJ Project\Prog-wiederholen\KlausurVorbereitung\Ab_10\src\Nr22" />
+      <recent name="C:\Users\fabia\Documents\Uni\1.IntelliJ Project\Prog-wiederholen\KlausurVorbereitung\Ab_10\src\Nr2" />
+      <recent name="C:\Users\fabia\Documents\Uni\1.IntelliJ Project\Prog-wiederholen\Programmieren" />
+      <recent name="C:\Users\fabia\Documents\Uni\1.IntelliJ Project\Prog-wiederholen\KlausurVorbereitung\src" />
+      <recent name="D:\xx\1.IntelliJ Project\Prog-wiederholen\AB-9\src\Nr1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fabia\Documents\Uni\1.IntelliJ Project\Prog-wiederholen\Programmieren" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Nr2" />
+      <recent name="Nr1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.teilsumme">
+    <configuration name="Nr1.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nr1.test" />
+      <module name="ProbeKlausuren" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nr5.x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nr5.x" />
+      <module name="ProbeKlausuren" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nr5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teilsumme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teilsumme" />
+      <module name="ProbeKlausuren" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nr22.test" />
+      <module name="Ab_10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nr22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nr1.x" />
+      <module name="ProbeKlausuren" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.teilsumme" />
+        <item itemvalue="Application.Nr1.test" />
+        <item itemvalue="Application.Nr5.x" />
+        <item itemvalue="Application.x" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66293bfa-36d0-4618-b9e6-c557f268a769" name="Changes" comment="" />
+      <created>1648559711383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648559711383</updated>
+      <workItem from="1648559713536" duration="4558000" />
+      <workItem from="1648595324648" duration="1674000" />
+      <workItem from="1648603034347" duration="2217000" />
+      <workItem from="1648663343088" duration="697000" />
+      <workItem from="1649085994641" duration="615000" />
+      <workItem from="1649518185699" duration="6442000" />
+      <workItem from="1649597235584" duration="1402000" />
+      <workItem from="1649667965597" duration="1499000" />
+      <workItem from="1649768878606" duration="2762000" />
+      <workItem from="1649776635092" duration="68000" />
+      <workItem from="1649780088617" duration="1038000" />
+      <workItem from="1649853756896" duration="22094000" />
+      <workItem from="1650042599597" duration="719000" />
+      <workItem from="1650444749787" duration="4934000" />
+      <workItem from="1650551923735" duration="723000" />
+      <workItem from="1650623487562" duration="898000" />
+      <workItem from="1650625481682" duration="745000" />
+      <workItem from="1650730521613" duration="140000" />
+      <workItem from="1651018779234" duration="11524000" />
+      <workItem from="1651157861485" duration="8053000" />
+      <workItem from="1651329734504" duration="2976000" />
+      <workItem from="1651417407958" duration="6862000" />
+      <workItem from="1651523679557" duration="5044000" />
+      <workItem from="1651655017953" duration="354000" />
+      <workItem from="1651655885848" duration="8035000" />
+      <workItem from="1651698948535" duration="61000" />
+      <workItem from="1651699019036" duration="182000" />
+      <workItem from="1651699212375" duration="205000" />
+      <workItem from="1651733058895" duration="271000" />
+      <workItem from="1651760286279" duration="473000" />
+      <workItem from="1651766698139" duration="7490000" />
+      <workItem from="1651776969059" duration="9000" />
+      <workItem from="1651777170788" duration="310000" />
+      <workItem from="1651845938188" duration="5750000" />
+      <workItem from="1651852502578" duration="4127000" />
+      <workItem from="1651916674017" duration="4680000" />
+      <workItem from="1652032507067" duration="636000" />
+      <workItem from="1652099238596" duration="2904000" />
+      <workItem from="1652187936208" duration="1712000" />
+      <workItem from="1652201321805" duration="1200000" />
+      <workItem from="1652363560289" duration="14852000" />
+      <workItem from="1652385057254" duration="257000" />
+      <workItem from="1652456150435" duration="9422000" />
+      <workItem from="1652694025861" duration="9329000" />
+      <workItem from="1652709904856" duration="4069000" />
+      <workItem from="1652873789738" duration="901000" />
+      <workItem from="1653068540898" duration="1339000" />
+      <workItem from="1653146084701" duration="611000" />
+      <workItem from="1653149749261" duration="809000" />
+      <workItem from="1653150644620" duration="851000" />
+      <workItem from="1653213707500" duration="1876000" />
+      <workItem from="1653332346745" duration="90000" />
+      <workItem from="1653332461695" duration="648000" />
+      <workItem from="1653394336257" duration="8480000" />
+      <workItem from="1654100399855" duration="849000" />
+      <workItem from="1654102247022" duration="2261000" />
+      <workItem from="1654250777294" duration="60000" />
+      <workItem from="1654250881608" duration="261000" />
+      <workItem from="1654251158407" duration="1385000" />
+      <workItem from="1654274291682" duration="552000" />
+      <workItem from="1654274864358" duration="5290000" />
+      <workItem from="1654354140651" duration="5820000" />
+      <workItem from="1654536834273" duration="6284000" />
+      <workItem from="1655043041722" duration="415000" />
+      <workItem from="1655046085392" duration="4907000" />
+      <workItem from="1655069382117" duration="429000" />
+      <workItem from="1655216564149" duration="11458000" />
+      <workItem from="1655243912248" duration="2950000" />
+      <workItem from="1655300018601" duration="1814000" />
+      <workItem from="1655392101378" duration="4118000" />
+      <workItem from="1655533639101" duration="6596000" />
+      <workItem from="1655742181922" duration="48000" />
+      <workItem from="1655742249108" duration="3325000" />
+      <workItem from="1655749468350" duration="201000" />
+      <workItem from="1655749700972" duration="1368000" />
+      <workItem from="1655755907926" duration="2904000" />
+      <workItem from="1655759012411" duration="8523000" />
+      <workItem from="1655769651606" duration="16011000" />
+      <workItem from="1655850027344" duration="931000" />
+      <workItem from="1655915784944" duration="16014000" />
+      <workItem from="1655949391513" duration="1111000" />
+      <workItem from="1655952054808" duration="372000" />
+      <workItem from="1656161658378" duration="1284000" />
+      <workItem from="1656164996167" duration="6488000" />
+      <workItem from="1656181626059" duration="5202000" />
+      <workItem from="1656237997834" duration="27412000" />
+      <workItem from="1656320654075" duration="86000" />
+      <workItem from="1656320749260" duration="1702000" />
+      <workItem from="1656343614993" duration="5592000" />
+      <workItem from="1656366075534" duration="2805000" />
+      <workItem from="1656427938771" duration="199000" />
+      <workItem from="1656428844350" duration="15723000" />
+      <workItem from="1656514491954" duration="19102000" />
+      <workItem from="1656608756247" duration="243000" />
+      <workItem from="1656609016987" duration="3231000" />
+      <workItem from="1656612289629" duration="144000" />
+      <workItem from="1656612650604" duration="42000" />
+      <workItem from="1656613114584" duration="4000" />
+      <workItem from="1656613207644" duration="152000" />
+      <workItem from="1656613375123" duration="1109000" />
+      <workItem from="1656614512004" duration="430000" />
+      <workItem from="1656630343814" duration="1282000" />
+      <workItem from="1656631654948" duration="27102000" />
+      <workItem from="1656773951108" duration="7509000" />
+      <workItem from="1656865059805" duration="8856000" />
+      <workItem from="1656971485114" duration="209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="Prog-wiederholen" type="b2602c69:ProjectViewProjectNode" />
+        <item name="Prog-wiederholen" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
